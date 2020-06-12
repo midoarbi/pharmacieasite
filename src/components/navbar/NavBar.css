@@ -1,0 +1,145 @@
+/* .monpharmacien-logo {
+    margin-top: 6px !important;
+    border-right: 1px solid #dbe7f0;
+    padding-right: 10px;
+}
+.container{
+    height: 70px;
+}
+.logo2 {
+ margin-right: 730px;
+}
+.logo2 span {
+    margin-right: 730px;
+} */
+
+.monpharmacien-logo {
+    margin-top: 6px !important;
+    border-right: 1px solid #dbe7f0;
+    padding-right: 10px;
+}
+.container{
+    width: 100%;
+    padding-right: 0px;
+    padding-left: 0px;
+    background-color: #fff;
+}
+.navbar {
+    height: 70px;
+}
+.offer-logo{
+    margin-right: 750px;
+    width: 100px;
+    vertical-align: middle;
+    float: left;
+    padding-left: 10px;
+}
+.offer-logo span {
+    font-family: "Raleway-Regular",open Sans;
+    color: #7b97aa;
+    font-size: 13px;
+    text-transform: uppercase;
+    margin-left: 10px;
+    margin-top: 14px;
+    float: left;
+}
+.btns_header{
+    float: right;
+    margin-top: 25px;
+    display: inline-block;
+    margin-left: 20px;
+}
+ol, ul {
+    list-style: none;
+}
+ul li {
+    display: inline-block;
+}
+.btns_header a, .photos-empty .suggest_picture {
+    color: #fff;
+    font-size: 14px;
+    font-family: 'gotham', open Sans;
+    padding: 11px 12px 12px 12px;
+    border-radius: 3px;
+    text-decoration: none;
+}
+.connexion_btn, .photos-empty .suggest_picture {
+    background-color: rgba(255,255,255,0);
+    margin-right: 5px;
+    transition: all ease-in-out 200ms;
+    border: 2px solid #00c389;
+    box-sizing: border-box;
+    color: #00c389 !important;
+}
+.btns_header a, .photos-empty .suggest_picture {
+    color: #fff;
+    font-size: 14px;
+    font-family: 'gotham', open Sans;
+    padding: 11px 12px 12px 12px;
+    border-radius: 3px;
+    text-decoration: none;
+}
+.inscription_btn {
+    background-color: #f6ac32;
+    transition: all ease-in-out 200ms;
+    padding: 13px 23px 13px 23px !important;
+}
+.nav li {
+    display: inline-block;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+ .nav a {
+        text-decoration: none;
+        color: #91a8ae;
+        font-size: 14px;
+        font-family: 'gotham', open Sans;
+        transition: all ease-in-out 200ms;
+    }
+    
+.nav a .selected {
+    text-decoration: none;
+    color: #00c389;
+    font-size: 14px;
+    font-family: 'gotham', 'open Sans';
+}
+
+.nav{
+    float: right;
+    margin-top: -60px;
+   margin-left: 850px;
+} 
+.connexion_btn:hover,
+.photos-empty .suggest_picture:hover
+{
+    background-color: #01ae7b;
+    margin-right: 5px;
+    transition: all ease-in-out 200ms;
+    border: 2px solid #01ae7b;
+    box-sizing:border-box;
+    color: #fff !important;
+
+}
+.inscription_btn:hover{
+    background-color: #eda225;
+    transition: all ease-in-out 200ms;
+
+}
+.nav a:hover{
+    text-decoration: none;
+    color: #5d7a81;
+    font-size: 14px;
+    font-family: 'gotham', open Sans;
+    transition: all ease-in-out 200ms;
+}
+.nav .selected:hover{
+    color: #00c389;
+    font-size: 14px;
+}
+.nav .selected{
+    text-decoration: none;
+    color: #00c389;
+    font-size: 14px;
+    font-family: 'gotham', open Sans;
+}

@@ -1,0 +1,206 @@
+.containerf {
+    margin-right: auto;
+    margin-left: auto;
+    padding-left: 5px;
+    padding-right: 5px;
+    width: 960px;
+}
+.footer_description {
+    float: left;
+    display: inline-block;
+}
+.footer_description p {
+    font-size: 14px;
+    font-family: open Sans;
+    color: #aab6ca;
+    font-weight: normal;
+    text-align: left;
+    margin-right: 0px;
+    margin-top: 20px;
+    line-height: 19px;
+    float: left;
+}
+.col-sm-4 {
+    width: 33.33333333%;
+}
+.footer_solutions {
+    float: left;
+    display: inline-block;
+    padding-left: 40px;
+    width: 20.5%;
+    padding-top: 60px;
+}
+
+.footer_solutions ul {
+    float: left;
+    display: inline-block;
+    margin-top: 6px;
+}
+ol, ul {
+    list-style: none;
+}
+.footer_solutions li {
+    width: 100%;
+    margin-bottom: 10px;
+    float: left;
+}
+.footer_contact {
+    float: right;
+    display: inline-block;
+    padding-left: 20px;
+    width: 25%;
+    padding-top: 60px;
+}
+.footer_contact ul {
+    float: left;
+    display: inline-block;
+    margin-top: 6px;
+}
+.footer_bottom {
+    width: 100%;
+    height: 60px;
+    background-color: #172735;
+    margin-top: 255px;
+    
+}
+.footer_bottom_left {
+    float: left;
+}
+
+.footer_bottom_left ul {
+    margin-top: -3px;
+    float: left;
+    margin-right: 30px;
+}
+.footer_bottom_left li a {
+    width: 26px;
+    height: 26px;
+    border-radius: 50%;
+    display: inline-block;
+    margin-top: 15px;
+}
+.footer_bottom_left p:last-child {
+    margin-left: 30px;
+}
+.offert-footer {
+    float: right;
+    margin-right: 20px;
+}
+.footer_bottom p {
+    font-family: open Sans;
+    font-size: 14px;
+    font-weight: normal;
+    color: #d4e6f8;
+    float: left;
+    margin-top: 17px;
+    margin-right: 10px;
+}
+
+.footer_solutions li a {
+    font-family: open Sans;
+    font-size: 14px;
+    font-weight: normal;
+    color: #aab6ca;
+    float: left;
+    text-decoration: none;
+    transition: all ease-in-out 200ms;
+}
+h4 {
+    font-size: 14px;
+    font-weight: bold;
+    color: #fff;
+    text-transform: uppercase;
+    float: left;
+    margin-bottom: 18px;
+    padding-left: 45px;
+}
+.footer_tel_icon {
+    display: inherit;
+    width: 28px;
+    height: 25px;
+    background-image: url(./sprite-site.png);
+    background-repeat: no-repeat;
+    background-position: -278px -149px;
+    margin-top: -5px;
+    margin-right: 6px;
+    background-size: 310px;
+    float: left;
+}
+.footer_email_icon {
+    display: inherit;
+    width: 28px;
+    height: 25px;
+    background-image: url(./sprite-site.png);
+    background-repeat: no-repeat;
+    background-position: -278px -175px;
+    margin-top: -5px;
+    margin-right: 6px;
+    background-size: 310px;
+    float: left;
+}
+.footer_site_icon {
+    display: inherit;
+    width: 28px;
+    height: 25px;
+    background-image: url(./sprite-site.png);
+    background-repeat: no-repeat;
+    background-position: -278px -201px;
+    margin-top: -5px;
+    margin-right: 6px;
+    background-size: 310px;
+    float: left;
+}
+.footer_adresse_icon {
+    display: inherit;
+    width: 28px;
+    height: 25px;
+    background-image: url(./sprite-site.png);
+    background-repeat: no-repeat;
+    background-position: -278px -229px;
+    margin-top: -5px;
+    margin-right: 6px;
+    background-size: 310px;
+    float: left;
+}
+.footer_contact li p {
+    font-family: open Sans;
+    font-size: 14px;
+    font-weight: normal;
+    color: #aab6ca;
+    float: left;
+    text-decoration: none;
+}
+.footer_contact p {
+    margin-bottom: 0px;
+}
+.facebook_icon {
+    display: inline-block;
+    width: 14px;
+    height: 15px;
+    background-image: url(./sprite.png);
+    background-repeat: no-repeat;
+    background-position: -20px 0px;
+    float: left;
+    margin-top: 5px;
+    margin-left: 8px;
+}
+
+.footer_bottom img {
+    margin-top: 5px;
+}
+.footer {
+    width: 100%;
+    float: left;
+    height: 284px;
+    background-color: #223444;
+    display: inline-block;
+}
+.facebook {
+    background-color: #396ba0;
+    transition: all ease-in-out 200ms;
+}
+.footer_description img {
+    float: left;
+    margin-top: 30px !important;
+    width: 270px;
+}
