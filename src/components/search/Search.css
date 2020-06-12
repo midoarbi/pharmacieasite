@@ -180,6 +180,21 @@
     cursor: pointer;
     transition: all ease-in-out 200ms;
 }
+.submit_search:hover{
+    height: 42px;
+    width: 191px;
+    border-radius: 3px;
+    border: 2px solid #01ae7b;
+    background-color: #01ae7b;
+    transition: all ease-in-out 200ms;
+    color: #fff;
+    font-size: 14px;
+    outline: none;
+    font-family: 'gotham', open Sans;
+    padding: 12px 12px 13px 12px;
+    cursor: pointer;
+
+}
 .form_search_controller .select2-container--default .select2-selection--single .select2-selection__rendered {
     color: inherit!important;
     line-height: 38px!important;
