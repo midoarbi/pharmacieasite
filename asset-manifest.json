@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/pharmacieasite/static/css/main.fe365c14.chunk.css",
-    "main.js": "/pharmacieasite/static/js/main.cfc203be.chunk.js",
-    "main.js.map": "/pharmacieasite/static/js/main.cfc203be.chunk.js.map",
+    "main.css": "/pharmacieasite/static/css/main.69707d2e.chunk.css",
+    "main.js": "/pharmacieasite/static/js/main.744663eb.chunk.js",
+    "main.js.map": "/pharmacieasite/static/js/main.744663eb.chunk.js.map",
     "runtime-main.js": "/pharmacieasite/static/js/runtime-main.0adc4159.js",
     "runtime-main.js.map": "/pharmacieasite/static/js/runtime-main.0adc4159.js.map",
-    "static/js/2.47ead214.chunk.js": "/pharmacieasite/static/js/2.47ead214.chunk.js",
-    "static/js/2.47ead214.chunk.js.map": "/pharmacieasite/static/js/2.47ead214.chunk.js.map",
+    "static/js/2.62f52d3d.chunk.js": "/pharmacieasite/static/js/2.62f52d3d.chunk.js",
+    "static/js/2.62f52d3d.chunk.js.map": "/pharmacieasite/static/js/2.62f52d3d.chunk.js.map",
     "index.html": "/pharmacieasite/index.html",
-    "precache-manifest.efa3436394adc877220d94044cc111cd.js": "/pharmacieasite/precache-manifest.efa3436394adc877220d94044cc111cd.js",
+    "precache-manifest.20fc143d08a38e1f09a844b31e69be65.js": "/pharmacieasite/precache-manifest.20fc143d08a38e1f09a844b31e69be65.js",
     "service-worker.js": "/pharmacieasite/service-worker.js",
-    "static/css/main.fe365c14.chunk.css.map": "/pharmacieasite/static/css/main.fe365c14.chunk.css.map",
-    "static/js/2.47ead214.chunk.js.LICENSE.txt": "/pharmacieasite/static/js/2.47ead214.chunk.js.LICENSE.txt",
+    "static/css/main.69707d2e.chunk.css.map": "/pharmacieasite/static/css/main.69707d2e.chunk.css.map",
+    "static/js/2.62f52d3d.chunk.js.LICENSE.txt": "/pharmacieasite/static/js/2.62f52d3d.chunk.js.LICENSE.txt",
     "static/media/Inscription.css": "/pharmacieasite/static/media/GothamRounded-Bold.a17abd06.otf",
     "static/media/email.png": "/pharmacieasite/static/media/email.a40ce5cf.png",
     "static/media/inscription_illustration.png": "/pharmacieasite/static/media/inscription_illustration.1fb657d9.png",
@@ -21,8 +21,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.0adc4159.js",
-    "static/js/2.47ead214.chunk.js",
-    "static/css/main.fe365c14.chunk.css",
-    "static/js/main.cfc203be.chunk.js"
+    "static/js/2.62f52d3d.chunk.js",
+    "static/css/main.69707d2e.chunk.css",
+    "static/js/main.744663eb.chunk.js"
   ]
 }
