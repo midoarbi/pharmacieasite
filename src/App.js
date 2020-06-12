@@ -1,23 +1,20 @@
-import React, { Component } from 'react';
+import React from 'react';
 import Navbar from './components/navbar/Navbar';
 import Footer from './components/footer/Footer';
 import Search from './components/search/Search';
 import Lastpharmacie from './components/last_pharmacie/Lastpharmacie';
 import Inscription from './components/inscription/Inscription';
 
-class App extends Component {
-  render() {
+const App = () => {
     return (
-      <div className="App">
+      <div className="pharmaciesite">
        <Navbar/>
        <Search/>
        <Lastpharmacie/>
        <Inscription/>
-       
        <Footer/>
       </div>
     );
   }
-}
 
 export default App;
