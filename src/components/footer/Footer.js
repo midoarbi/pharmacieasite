@@ -1,17 +1,17 @@
 import React from 'react';
-import logomonpharmacien from './logo-monpharmacien.png'
-import email from './email.png'
-import footerlogo from './sobrus_logo_footer.png'
-import   './sprite-site.png'
-import   './sprite.png'
+import logomonpharmacien from '../../assets/imgs/logo-monpharmacien.png'
+import email from '../../assets/imgs/email.png'
+import footerlogo from '../../assets/imgs/sobrus_logo_footer.png'
+import   '../../assets/imgs/sprite-site.png'
+import   '../../assets/imgs/sprite.png'
 import './Footer.css'
 const Footer = () => {
 
     return(
         <section class="footer">
         <div className="containerf">
-            <div className="footer_description col-sm-4" >
-             <img src={logomonpharmacien} />
+            <div className="footer_description col-sm-4"> 
+             <img src={logomonpharmacien} /> 
              <p>
                  
                 MonPharmacien.ma est le premier annuaire interactif de pharmacies au Maroc 100% gratuit.
@@ -66,7 +66,7 @@ const Footer = () => {
                            <img src={email} style={{infloat:'right', width:'174px'}} />
                        </p>
                     </li>
-                    <li>
+                     <li>
                        <i className="footer_site_icon" ></i>
                        <p>
                        sobrus.com
@@ -95,7 +95,7 @@ const Footer = () => {
            </a>
        </li>
    </ul>
-   <p>Dernière mise à jour le 11/06/2020</p>
+   <p>Dernière mise à jour le 11/06/2020</p> 
   </div>
 
   <div className="offert-footer">

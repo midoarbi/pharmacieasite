@@ -118,7 +118,7 @@ h4 {
     display: inherit;
     width: 28px;
     height: 25px;
-    background-image: url(./sprite-site.png);
+    background-image: url(../../assets/imgs/sprite-site.png);
     background-repeat: no-repeat;
     background-position: -278px -149px;
     margin-top: -5px;
@@ -130,7 +130,7 @@ h4 {
     display: inherit;
     width: 28px;
     height: 25px;
-    background-image: url(./sprite-site.png);
+    background-image: url(../../assets/imgs/sprite-site.png);
     background-repeat: no-repeat;
     background-position: -278px -175px;
     margin-top: -5px;
@@ -142,7 +142,7 @@ h4 {
     display: inherit;
     width: 28px;
     height: 25px;
-    background-image: url(./sprite-site.png);
+    background-image: url(../../assets/imgs/sprite-site.png);
     background-repeat: no-repeat;
     background-position: -278px -201px;
     margin-top: -5px;
@@ -154,7 +154,7 @@ h4 {
     display: inherit;
     width: 28px;
     height: 25px;
-    background-image: url(./sprite-site.png);
+    background-image: url(../../assets/imgs/sprite-site.png);
     background-repeat: no-repeat;
     background-position: -278px -229px;
     margin-top: -5px;
@@ -177,7 +177,7 @@ h4 {
     display: inline-block;
     width: 14px;
     height: 15px;
-    background-image: url(./sprite.png);
+    background-image: url(../../assets/imgs/sprite.png);
     background-repeat: no-repeat;
     background-position: -20px 0px;
     float: left;

@@ -1,6 +1,6 @@
 import React from 'react'
-import monpharmacie from './monpharmacie.png'
-import offer from './offer.png'
+import monpharmacie from '../../assets/imgs/monpharmacie.png'
+import offer from '../../assets/imgs/offer.png'
 import './NavBar.css'
 const Navbar = () => {
 
@@ -8,7 +8,7 @@ const Navbar = () => {
         <div className="navbar">
             <div className="container">
                 
-                    <a style={{marginTop:'unset !important'}} >
+                    <a>
                     <img className="monpharmacien-logo" src={monpharmacie}  />
                     </a>
                 

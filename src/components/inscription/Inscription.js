@@ -1,5 +1,5 @@
 import React, { Fragment } from 'react'
-import inscriptionimg from './inscription_illustration.png'
+import inscriptionimg from '../../assets/imgs/inscription_illustration.png'
 import './Inscription.css'
 const Inscription = () => {
     return(
